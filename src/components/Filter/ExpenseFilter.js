@@ -1,4 +1,5 @@
 import React,  { useState } from 'react';
+//filter function
 
 import './ExpenseFilter.css';
 
